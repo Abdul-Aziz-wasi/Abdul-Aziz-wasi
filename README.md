@@ -4,6 +4,10 @@
 
 <p align="left">A passionate frontend developer from Bangladesh.</p>
 
+<img align="right" alt="coding" width="200px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
+##
+
 
 
 <h2 align="left">About me</h2>
