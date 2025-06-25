@@ -1,4 +1,4 @@
-![logo](https://github.com/Abdul-Aziz-wasi/Abdul-Aziz-wasi/blob/main/github_banner.jpeg)
+![logo](https://github.com/Abdul-Aziz-wasi/Abdul-Aziz-wasi/blob/main/Abdul_Aziz%20A%20frontend%20web.png)
 <h1 align="center">Hey! I'm Abdul Aziz</h1>
 
 
