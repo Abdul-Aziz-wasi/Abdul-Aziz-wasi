@@ -1,12 +1,9 @@
-<h1 align="left">Hey! I'm Abdul Aziz</h1>
+<h1 align="center">Hey! I'm Abdul Aziz</h1>
 
 
 
-<p align="left">A passionate frontend developer from Bangladesh.</p>
+<p align="center">A passionate frontend developer from Bangladesh.</p>
 
-<img align="right" alt="coding" width="200px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-
-##
 
 
 
@@ -43,11 +40,8 @@
 
 ## 📊 GitHub Stats & Contributions
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Aziz-wasi&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Aziz-wasi&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
