@@ -4,7 +4,7 @@
 
 
 
-<p align="center">A passionate frontend developer from Bangladesh.</p>
+<p align="center">A frontend developer from Bangladesh.</p>
 
 
 
